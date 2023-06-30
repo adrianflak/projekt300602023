@@ -18,7 +18,7 @@ jobs:
         server: "s1.ct8.pl"
         server-dir: "./domains/af-ct8.ct8.pl/public_html/wp-content/themes/moj_pierwszy_szablon/"
         username: ${{secrets.FTP_USERNAME}}
-        password: ${{secrets.FPT_PASSWORD}}
+        password: ${{secrets.FTP_PASSWORD}}
         
         
         
